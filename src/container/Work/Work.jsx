@@ -12,7 +12,8 @@ const myWorkData = [
     {
         imgUrl: images.nft,
         name: "nft_jpg",
-        projectLink: "https://github.com/webwebweb3/musit_nft",
+        projectLink:
+            "https://spotted-freon-b31.notion.site/webwebweb3-80869eac99364887886753e01c18dacc",
         codeLink: "https://github.com/webwebweb3/musit_nft",
 
         title: "음원 NFT 거래 사이트",
@@ -22,7 +23,8 @@ const myWorkData = [
     {
         imgUrl: images.spiderCoin,
         name: "spiderCoin_gif",
-        projectLink: "https://github.com/BlockchainWeb3-0/SpiderCoin",
+        projectLink:
+            "https://spotted-freon-b31.notion.site/SpiderCoin-72760da02821492f87ef636cb8dc371b",
         codeLink: "https://github.com/BlockchainWeb3-0/SpiderCoin",
 
         title: "Blockchain",
@@ -69,6 +71,18 @@ const myWorkData = [
         title: "Surfarty Guest House",
         description: "게스트하우스 예약 서비스",
         tags: ["Web App", "All"],
+    },
+    {
+        imgUrl: images.personalStudy,
+        name: "personalStudy_img",
+        projectLink:
+            "https://spotted-freon-b31.notion.site/506742aa316c4861b90d52ba5db46e6d",
+        codeLink:
+            "https://spotted-freon-b31.notion.site/506742aa316c4861b90d52ba5db46e6d",
+
+        title: "개인 공부장",
+        description: "개인 공부 하는 곳입니다.",
+        tags: ["All"],
     },
 ];
 
