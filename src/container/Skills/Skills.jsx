@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { motion } from "framer-motion";
-import ReactTooltip from "react-tooltip";
+
 import { images } from "../../constants";
 
 import { AppWrap, MotionWrap } from "../../wrapper";
@@ -47,11 +47,6 @@ const skills = [
         name: "Redux",
         bgColor: `#eee`,
         icon: images.redux,
-    },
-    {
-        name: "Jquery",
-        bgColor: `#eee`,
-        icon: images.jquery,
     },
     {
         name: "Html",

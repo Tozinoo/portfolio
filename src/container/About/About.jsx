@@ -1,12 +1,10 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { images } from "../../constants";
 
 import { AppWrap, MotionWrap } from "../../wrapper";
 import "./About.scss";
 
 const About = () => {
-    const [abouts, setAbouts] = useState([]);
-
     return (
         <>
             <h2 className="head-text">진취적인 웹/블록체인 개발자</h2>
